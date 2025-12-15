@@ -1,4 +1,4 @@
-package Estudos;
+package Estudos.conexaoDao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
